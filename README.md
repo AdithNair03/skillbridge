@@ -9,11 +9,11 @@ A full-stack skill exchange web application built with React + Node.js + MongoDB
 - ✅ Skill Search & Browse
 - ✅ Skill Categories & Filters
 - ✅ View User Profiles
-- ✅ Skill Exchange Requests
+- ✅ Skill Exchange Request
 - ✅ Real-time Chat System
 - ✅ Session Scheduling (with Calendar)
 - ✅ Ratings & Reviews
-- ✅ Admin Management Panel
+- ✅ Admin Management panel
 
 ## 📁 Project Structure
 ```
